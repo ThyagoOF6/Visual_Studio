@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\bin\Debug\netcoreapp2.1\area.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\bin\Debug\netcoreapp2.1\area.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\bin\Debug\netcoreapp2.1\area.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\bin\Debug\netcoreapp2.1\area.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\bin\Debug\netcoreapp2.1\area.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\area\area\obj\Debug\netcoreapp2.1\area.genruntimeconfig.cache

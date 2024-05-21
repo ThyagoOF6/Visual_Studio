@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.genruntimeconfig.cache

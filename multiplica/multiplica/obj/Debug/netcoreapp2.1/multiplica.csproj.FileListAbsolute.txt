@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\bin\Debug\netcoreapp2.1\multiplica.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\bin\Debug\netcoreapp2.1\multiplica.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\bin\Debug\netcoreapp2.1\multiplica.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\bin\Debug\netcoreapp2.1\multiplica.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\bin\Debug\netcoreapp2.1\multiplica.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\multiplica\multiplica\obj\Debug\netcoreapp2.1\multiplica.genruntimeconfig.cache

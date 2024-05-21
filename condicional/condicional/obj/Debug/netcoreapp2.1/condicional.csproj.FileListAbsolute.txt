@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\bin\Debug\netcoreapp2.1\condicional.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\bin\Debug\netcoreapp2.1\condicional.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\bin\Debug\netcoreapp2.1\condicional.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\bin\Debug\netcoreapp2.1\condicional.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\bin\Debug\netcoreapp2.1\condicional.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\condicional\condicional\obj\Debug\netcoreapp2.1\condicional.genruntimeconfig.cache

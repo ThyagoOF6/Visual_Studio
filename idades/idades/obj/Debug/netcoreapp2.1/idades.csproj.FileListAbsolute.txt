@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\bin\Debug\netcoreapp2.1\idades.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\bin\Debug\netcoreapp2.1\idades.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\bin\Debug\netcoreapp2.1\idades.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\idades\idades\obj\Debug\netcoreapp2.1\idades.genruntimeconfig.cache

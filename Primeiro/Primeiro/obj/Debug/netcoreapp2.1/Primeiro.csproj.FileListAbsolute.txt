@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.genruntimeconfig.cache

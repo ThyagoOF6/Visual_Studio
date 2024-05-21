@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\bin\Debug\netcoreapp2.1\resultado.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\bin\Debug\netcoreapp2.1\resultado.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\bin\Debug\netcoreapp2.1\resultado.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\bin\Debug\netcoreapp2.1\resultado.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\bin\Debug\netcoreapp2.1\resultado.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\resultado\resultado\obj\Debug\netcoreapp2.1\resultado.genruntimeconfig.cache

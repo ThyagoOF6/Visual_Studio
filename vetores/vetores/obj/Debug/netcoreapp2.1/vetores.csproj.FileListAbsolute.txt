@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\bin\Debug\netcoreapp2.1\vetores.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\bin\Debug\netcoreapp2.1\vetores.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\bin\Debug\netcoreapp2.1\vetores.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\bin\Debug\netcoreapp2.1\vetores.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\bin\Debug\netcoreapp2.1\vetores.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\vetores\vetores\obj\Debug\netcoreapp2.1\vetores.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "menor_de_tres/1.0.0": {
+        "runtime": {
+          "menor_de_tres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "menor_de_tres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

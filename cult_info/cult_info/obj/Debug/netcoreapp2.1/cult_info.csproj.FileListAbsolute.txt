@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\bin\Debug\netcoreapp2.1\cult_info.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\bin\Debug\netcoreapp2.1\cult_info.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\bin\Debug\netcoreapp2.1\cult_info.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\bin\Debug\netcoreapp2.1\cult_info.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\bin\Debug\netcoreapp2.1\cult_info.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\cult_info\cult_info\obj\Debug\netcoreapp2.1\cult_info.genruntimeconfig.cache

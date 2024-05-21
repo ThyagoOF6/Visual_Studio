@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\bin\Debug\netcoreapp2.1\funcionaria.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\bin\Debug\netcoreapp2.1\funcionaria.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\bin\Debug\netcoreapp2.1\funcionaria.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\bin\Debug\netcoreapp2.1\funcionaria.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\bin\Debug\netcoreapp2.1\funcionaria.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\funcionaria\funcionaria\obj\Debug\netcoreapp2.1\funcionaria.genruntimeconfig.cache

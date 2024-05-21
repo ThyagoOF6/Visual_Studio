@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\bin\Debug\netcoreapp2.1\repita_ate.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\bin\Debug\netcoreapp2.1\repita_ate.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\bin\Debug\netcoreapp2.1\repita_ate.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\bin\Debug\netcoreapp2.1\repita_ate.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\bin\Debug\netcoreapp2.1\repita_ate.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\repita_ate\repita_ate\obj\Debug\netcoreapp2.1\repita_ate.genruntimeconfig.cache

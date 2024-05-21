@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\bin\Debug\netcoreapp2.1\write_b.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\bin\Debug\netcoreapp2.1\write_b.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\bin\Debug\netcoreapp2.1\write_b.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\bin\Debug\netcoreapp2.1\write_b.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\bin\Debug\netcoreapp2.1\write_b.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\write_b\write_b\obj\Debug\netcoreapp2.1\write_b.genruntimeconfig.cache

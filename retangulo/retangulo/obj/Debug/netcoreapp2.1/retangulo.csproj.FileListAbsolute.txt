@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.genruntimeconfig.cache

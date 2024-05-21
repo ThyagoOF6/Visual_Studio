@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\bin\Debug\netcoreapp2.1\bom_dia.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\bin\Debug\netcoreapp2.1\bom_dia.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\bin\Debug\netcoreapp2.1\bom_dia.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\bin\Debug\netcoreapp2.1\bom_dia.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\bin\Debug\netcoreapp2.1\bom_dia.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\bom_dia\bom_dia\obj\Debug\netcoreapp2.1\bom_dia.genruntimeconfig.cache

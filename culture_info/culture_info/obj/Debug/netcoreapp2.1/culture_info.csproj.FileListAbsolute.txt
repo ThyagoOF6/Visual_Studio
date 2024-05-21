@@ -1,0 +1,13 @@
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\bin\Debug\netcoreapp2.1\culture_info.deps.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\bin\Debug\netcoreapp2.1\culture_info.runtimeconfig.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\bin\Debug\netcoreapp2.1\culture_info.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\bin\Debug\netcoreapp2.1\culture_info.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\bin\Debug\netcoreapp2.1\culture_info.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.csproj.AssemblyReference.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.dll
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.pdb
+C:\Users\thyag\OneDrive\Desktop\Nelio\VisualStudio\culture_info\culture_info\obj\Debug\netcoreapp2.1\culture_info.genruntimeconfig.cache
